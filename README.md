@@ -53,7 +53,7 @@ docker compose version
 
 > **Screenshot 1:** Take a screenshot showing both version outputs.
 >
-> `[insert screenshot]`
+![screenshot 1](screenshot1.png)
 
 ---
 
