@@ -287,7 +287,7 @@ docker volume inspect pg_data
 > **Screenshot 5:** Take a screenshot showing the `SELECT` result after
 > container recreation, and the `docker volume inspect` output.
 >
-> `[insert screenshot]`
+![screenshot 5](screenshot5.png)
 
 ### Step 3 – Clean Up
 
