@@ -880,7 +880,7 @@ docker compose exec api whoami
 > **Screenshot 11:** Take a screenshot showing `docker compose exec api whoami`
 > returning `appuser`.
 >
-> `[insert screenshot]`
+![screenshot 11](screenshot11.png)
 
 ### Step 3 – Commit
 
