@@ -160,7 +160,7 @@ exit
 > **Screenshot 3:** Take a screenshot showing the `docker build` output and
 > the commands run inside the container.
 >
-> `[insert screenshot]`
+![screenshot 3](screenshot3.png)
 
 ### Step 4 – Commit
 
