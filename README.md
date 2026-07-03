@@ -336,7 +336,7 @@ docker run --rm -it postgres:16 \
 
 > **Screenshot 6:** Take a screenshot showing the connection error.
 >
-> `[insert screenshot]`
+![screenshot 6](screenshot6.png)
 
 ### Step 2 – Fix It With a Custom Bridge Network
 
