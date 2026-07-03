@@ -223,7 +223,7 @@ docker exec -it pg psql -U postgres -c "SELECT * FROM test;"
 
 > **Screenshot 4:** Take a screenshot showing the error message.
 >
-> `[insert screenshot]`
+![screenshot 4](screenshot4.png)
 
 ### Questions for Section 3
 
