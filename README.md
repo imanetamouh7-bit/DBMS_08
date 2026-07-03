@@ -815,7 +815,7 @@ curl http://localhost:8000/studenten
 > **Screenshot 10:** Take a screenshot showing `docker images` with the
 > final image size and the working `curl` response.
 >
-> `[insert screenshot]`
+![screenshot 10](screenshot10.png)
 
 ### Step 5 – Commit
 
