@@ -613,7 +613,7 @@ curl http://localhost:8000/studenten
 > **Screenshot 8:** Take a screenshot showing the `curl /studenten` response
 > with all four rows.
 >
-> `[insert screenshot]`
+![screenshot 8](screenshot8.png)
 
 ### Step 4 – Commit
 
