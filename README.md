@@ -719,7 +719,7 @@ git push
 > **Screenshot 9:** Take a screenshot showing `git status` confirming
 > `.env` is not staged, and the working `curl` response.
 >
-> `[insert screenshot]`
+![screenshot 9](screenshot9.png)
 
 ### Questions for Section 8
 
