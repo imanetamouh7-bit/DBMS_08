@@ -78,7 +78,7 @@ docker images
 > **Screenshot 2:** Take a screenshot showing `docker ps -a` and
 > `docker images` output.
 >
-> `[insert screenshot]`
+![screenshot 2](screenshot2.png)
 
 ### Step 2 – Run an nginx Webserver
 
