@@ -500,7 +500,7 @@ curl http://localhost:8000/studenten
 > **Screenshot 7:** Take a screenshot showing `docker compose ps` and the
 > `curl /` response.
 >
-> `[insert screenshot]`
+![screenshot 7](screenshot7.png)
 
 ### Step 5 – Observe Compose Networking
 
